@@ -1,0 +1,6 @@
+{
+  "name": "StudySpace",
+  "description": "Comprehensive academic workspace for student task tracking, structured weekly study plans, Pomodoro focus sessions, and performance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
